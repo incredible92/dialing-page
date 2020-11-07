@@ -166,3 +166,13 @@ body {
   top: 19rem;
   left: 9rem;
 }
+
+.square {
+  position: absolute;
+  border: 1px solid black;
+  width: 0.8rem;
+  height: 0.8rem;
+  top: 19rem;
+  left: 4.5rem;
+  border-radius: 2px;
+}
