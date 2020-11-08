@@ -176,3 +176,14 @@ body {
   left: 4.5rem;
   border-radius: 2px;
 }
+
+.triangle-left {
+  position: absolute;
+  top: 19rem;
+  left: 13.2rem;
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-right: 25px solid black;
+  border-bottom: 10px solid transparent;
+}
